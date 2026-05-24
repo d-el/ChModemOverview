@@ -28,6 +28,9 @@ In general, the device consists of a power supply unit, a modem, a power amplifi
 
 ### Test stand
 
+All software is written in Python. The libraries for the measurement instruments are developed using the [PyMeasure](https://github.com/pymeasure/pymeasure) framework.
+A Sorensen XHR 40-25 is used as the main power supply. A [PS3604L](https://github.com/d-el/PS3604L) is used as the power supply for controlling the PAen signal.
+
 To measure the spectral density, a signal analyzer with a built-in signal generator is used. The trace mode is set to Max Hold.
 
 <img src="teststand.drawio.svg" style="zoom:80%;" />
@@ -39,8 +42,6 @@ The following test setup is used to measure the dependence of output power on in
 Stand photo:
 
 <img src="pastand.jpg" style="zoom:80%;" />
-
-
 
 ### Measurements results
 
