@@ -1,0 +1,4 @@
+gnuplot
+set yrange [] reverse
+set grid
+plot "lfhf_conn_hf.txt" using 1:2 with lines
