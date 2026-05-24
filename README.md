@@ -59,6 +59,7 @@ Pin=4dBm, trace mode Max Hold, Fmin 2.2GHz, Fmax 8.4GHz:
 
 As can be seen from the graphs, within the 3.2–3.4GHz frequency band, the output power exceeds 50dBm.
 The P1dB compression point is 51dBm. At the same time, the power consumption is 28V at 11.2A.
+The no-input current is 0.9 A.
 
 ## Power supply
 
