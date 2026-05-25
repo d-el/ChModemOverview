@@ -1,6 +1,6 @@
 
 
-# Dual channel modem Tech Mesh Network XK
+# Dual channel modem Xingkai Tech XK-F358
 
 Overview of a Chinese modem from a downed UAV.
 
