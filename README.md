@@ -67,3 +67,19 @@ The main power supply is built using a buck-boost topology based on the LM5176. 
 The power supply can deliver up to 11.5A without output voltage drop (Input voltage is 20V, taking into account the voltage drop across the wires). When the load current exceeds 11.5A, the voltage begins to drop.
 
 <img src="powers.jpg" style="zoom:80%;" />
+
+## RF Filter
+
+The modem is equipped with a high-order channel band-pass filter. The filter is built using cavity resonators.
+
+### Teardown
+
+| <img src="filter.jpg" style="zoom:80%;" /> | <img src="filter2.jpg" style="zoom:80%;" /> |
+| :--- | :--- |
+
+### Measure
+
+The operating band is 3.2–3.4 GHz, the passband ripple is about 1 dB, and the out-of-band rejection is better than 90 dB.
+
+| <img src="filter_avsf.png" style="zoom:80%;" /> | <img src="filter_avsf2.png" style="zoom:80%;" /> |
+| :--- | :--- |
