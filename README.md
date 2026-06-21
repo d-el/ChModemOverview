@@ -53,13 +53,13 @@ Pout vs frequency, Pin=4dBm:
 
 <img src="f_pout_pin4dbm.svg" style="zoom:100%;" />
 
-Loss in band:
-
-<img src="loss_in_band.svg" style="zoom:100%;" />
-
 Pin=4dBm, trace mode Max Hold, Fmin 2.2GHz, Fmax 8.4GHz:
 
 <img src="spectrum.png" style="zoom:80%;" />
+
+Loss in band:
+
+<img src="loss_in_band.svg" style="zoom:100%;" />
 
 As can be seen from the graphs, within the 3.2–3.4GHz frequency band, the output power exceeds 50dBm.
 The P1dB compression point is 51dBm. At the same time, the power consumption is 28V at 11.2A.
