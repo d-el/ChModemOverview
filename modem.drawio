@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mo0Vr8KPfRamsMZB2Xju">
-    <mxGraphModel dx="2451" dy="2542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1352" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
         <mxCell id="kIxGaCjCpgYw0SlnYrB7-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="ADP5054&lt;div&gt;Quad Buck Regulator&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="170" x="590" y="-150" as="geometry" />
         </mxCell>
-        <mxCell id="kIxGaCjCpgYw0SlnYrB7-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Analog Devoces&lt;div&gt;Transceiver&lt;br&gt;Mark: AD80...&lt;/div&gt;" vertex="1">
+        <mxCell id="kIxGaCjCpgYw0SlnYrB7-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Analog Devoces&lt;div&gt;Transceiver&lt;br&gt;Mark: AD9363ABC7&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="120" x="520" y="260" as="geometry" />
         </mxCell>
         <mxCell id="kIxGaCjCpgYw0SlnYrB7-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontSize=11;" value="Balun" vertex="1">
